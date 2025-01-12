@@ -1,2 +1,4 @@
 # movie recomendation system
-credits.csv(F:\Downloads\tmdb_5000_credits.csv)
+
+This is the dataset use for train the model
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
